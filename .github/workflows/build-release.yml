@@ -7,7 +7,7 @@ on:
       - master
       - feature/manual-http-implementation
     tags:
-      - 'v1.0.0'
+      - 'v*'
   workflow_dispatch:
 
 permissions:
