@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321437606442",
+    "project_id": "lab5-pemob",
+    "storage_bucket": "lab5-pemob.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321437606442:android:64cb09596c124d1e39d953",
+        "android_client_info": {
+          "package_name": "com.example.lab5_pemob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321437606442-09omhsskg93bt8dflcpqsh3hignqb6dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab5_pemob",
+            "certificate_hash": "c99533520a9eab98d78e4be81b9d73e33229ed10"
+          }
+        },
+        {
+          "client_id": "321437606442-lmbnvcvv9neftui1iooans6f1r50m1oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab5_pemob",
+            "certificate_hash": "d6cd2b315a8971c194eca8474d94652d55c2fd57"
+          }
+        },
+        {
+          "client_id": "321437606442-r2qr5lv42qbjd22m8b8kf5kniefahfv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUURaA9r01FAMMzHB1AN6te7fhhQfH-hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321437606442-r2qr5lv42qbjd22m8b8kf5kniefahfv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

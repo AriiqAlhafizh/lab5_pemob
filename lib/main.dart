@@ -1,4 +1,4 @@
-import '/provider/app_state_provider.dart';
+import '/providers/app_state_provider.dart';
 import '/providers/auth_provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
